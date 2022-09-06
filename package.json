@@ -1,0 +1,19 @@
+{
+  "name": "projeto-nodejs-rest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bruno-Gdos/NodeJS-Rest-express.git"
+  },
+  "author": "Bruno Gabriel dos Santos Costa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bruno-Gdos/NodeJS-Rest-express/issues"
+  },
+  "homepage": "https://github.com/Bruno-Gdos/NodeJS-Rest-express#readme"
+}
