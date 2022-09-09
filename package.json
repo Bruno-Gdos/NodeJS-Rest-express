@@ -9,19 +9,21 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Bruno-Gdos/NodeJS-Rest-express.git"
+    "url": "git+https://github.com/juunegreiros/nodejs-api-rest.git"
   },
-  "author": "Bruno Gabriel dos Santos Costa",
+  "author": "juliana negreiros",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Bruno-Gdos/NodeJS-Rest-express/issues"
+    "url": "https://github.com/juunegreiros/nodejs-api-rest/issues"
   },
-  "homepage": "https://github.com/Bruno-Gdos/NodeJS-Rest-express#readme",
+  "homepage": "https://github.com/juunegreiros/nodejs-api-rest#readme",
   "dependencies": {
     "consign": "^0.1.6",
-    "express": "^4.18.1"
+    "express": "^4.17.1",
+    "moment": "^2.24.0",
+    "mysql": "^2.17.1"
   },
   "devDependencies": {
-    "nodemon": "^2.0.19"
+    "nodemon": "^1.19.2"
   }
 }
